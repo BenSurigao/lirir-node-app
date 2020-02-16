@@ -1,15 +1,15 @@
-<h1> liri-node-app
+# liri-node-app
 
 
 
-<h2>Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
+**Clearly state the problem the app is trying to solve (i.e. what is it doing and why)**
     . This app is helping the user narrow down the information of the artists and movies they're interested in, by providing them information about tour dates, song information, and movie information.
 
 
-<h2>Give a high-level overview of how the app is organized
+**Give a high-level overview of how the app is organized**
 
 
-<h2>Give start-to-finish instructions on how to run the app
+**Give start-to-finish instructions on how to run the app**
 
     1. node liri.js concert-this "artist/band name here" to return concert information from Bandsintown.
 
@@ -20,12 +20,12 @@
     4. node liri.js do-what-it-says to return information stored in random.txt
 
 
-<h2>Contain a link to a deployed version of the app
+**Contain a link to a deployed version of the app**
 
-    [link to video presentation](https://youtu.be/ab4r4kwCBzM)
+    [link to video presentation](https://www.youtube.com/watch?v=ab4r4kwCBzM)
 
 
-<h2>Clearly list the technologies used in the app
+**Clearly list the technologies used in the app**
     * Node.js
     * fs
     * Bandsintown API
