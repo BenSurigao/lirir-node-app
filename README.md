@@ -22,7 +22,7 @@
 
 ### Contain a link to a deployed version of the app ###
     
-    > ![YouTube](http://www.youtube.com/watch?v=ab4r4kwCBzM)
+   [YouTube](http://www.youtube.com/watch?v=ab4r4kwCBzM)
     
 
 ### Clearly list the technologies used in the app ###
