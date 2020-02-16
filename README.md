@@ -22,8 +22,8 @@
 
 **Contain a link to a deployed version of the app**
 
-    https://www.youtube.com/watch?v=ab4r4kwCBzM - automatic!
-    [YouTube](https://www.youtube.com/watch?v=ab4r4kwCBzM)
+    
+    > ![YouTube](https://www.youtube.com/watch?v=ab4r4kwCBzM)
     
 
 **Clearly list the technologies used in the app**
