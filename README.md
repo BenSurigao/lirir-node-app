@@ -21,14 +21,10 @@
 
 
 **Contain a link to a deployed version of the app**
-<<<<<<< HEAD
 
-    https://www.youtube.com/watch?v=ab4r4kwCBzM 
-=======
-    
+    * https://www.youtube.com/watch?v=ab4r4kwCBzM - automatic!
     [YouTube](https://www.youtube.com/watch?v=ab4r4kwCBzM)
     
->>>>>>> 17690ce90273670b2fb47c0ef89782b92ac31356
 
 **Clearly list the technologies used in the app**
 
