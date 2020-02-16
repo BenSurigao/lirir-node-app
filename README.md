@@ -21,15 +21,16 @@
 
 
 **Contain a link to a deployed version of the app**
-
-    [link to video presentation](https://www.youtube.com/watch?v=ab4r4kwCBzM)
-
+    https://www.youtube.com/watch?v=ab4r4kwCBzM - automatic!
+    [YouTube](https://www.youtube.com/watch?v=ab4r4kwCBzM)
+    
 
 **Clearly list the technologies used in the app**
-    * Node.js
-    * fs
-    * Bandsintown API
-    * Spotify API
-    * OMDB API
+
+    1. Node.js
+    2. fs
+    3. Bandsintown API
+    4. Spotify API
+    5. OMDB API
 
 
