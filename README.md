@@ -22,7 +22,7 @@
 
 **Contain a link to a deployed version of the app**
 
-    * https://www.youtube.com/watch?v=ab4r4kwCBzM - automatic!
+    https://www.youtube.com/watch?v=ab4r4kwCBzM - automatic!
     [YouTube](https://www.youtube.com/watch?v=ab4r4kwCBzM)
     
 
